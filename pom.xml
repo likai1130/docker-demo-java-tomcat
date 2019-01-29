@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.daocloud.demo</groupId>
-  <artifactId>docker-demo-java-tomcat</artifactId>
+  <artifactId>listLibrary</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>docker-demo-java-tomcat Maven Webapp</name>
+  <name>listLibrary Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -21,7 +21,7 @@
   </properties>
 
   <build>
-    <finalName>docker-demo-java-tomcat</finalName>
+    <finalName>listLibrary</finalName>
     <!--
     <plugins>
       <plugin>
